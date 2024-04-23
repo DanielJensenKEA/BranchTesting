@@ -5,5 +5,8 @@ public class Main {
 
         cat.eat("fish");
         dog.eat("meat");
+
+        cat.mood();
+        dog.mood();
     }
 }
